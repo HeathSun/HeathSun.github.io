@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "He Sun"
-description              : "You can call me **Shawn**. "
+title                    : "Shawn Sun"
+description              : "My Chinese name is He SUN (孙和), but you can call me Shawn. "
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "He SUN"
+  name             : "Shawn Sun"
   avatar           : "images/sora2.jpg"
   bio              : "University of Nottingham"
   location         : "Nottingham, UK"
