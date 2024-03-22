@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Shawn Sun"
+title                    : "He (Shawn) Sun"
 description              : "Y2 CS Undergrad UoN, Co-PI of Li Dak-Sum Sci&Tech Project, Founder/CEO Prophecat, ZR 13 Batch of Zhenfund. Focusing on AI for Science."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shawn Sun"
+  name             : "He (Shawn) Sun"
   avatar           : "images/24228-Brutalism.jpeg"
   bio              : "University of Nottingham"
   location         : "Nottingham, UK"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "scyhs4@nottingham.ac.uk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -51,10 +51,10 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/HShawnSun"
   vine             :
   weibo            :
-  xing             :
+  xing             : 
   youtube          :
   wikipedia        :
 
