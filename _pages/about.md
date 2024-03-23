@@ -34,7 +34,7 @@ redirect_from:
 **He SUN**, Junfeng ZHU, Yipeng XU
 
 [**Project**](https://arxiv.org/abs/2309.07165v1) | MCM Awarded Paper
--  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader).
+-  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 </div>
 </div>
 
