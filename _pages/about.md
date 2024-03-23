@@ -26,7 +26,7 @@ redirect_from:
 
 # 📝 Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2023</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Revive, Restore, Revitalize: An Eco-economic Methodology for Maasai Mara**
