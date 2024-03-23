@@ -29,6 +29,18 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2023</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Spatially programmable optogenetic platform for wound-healing**
+
+Shang CHI, **He SUN**
+
+[**Project**](https://arxiv.org/abs/2309.07165v1) | MCM Awarded Paper
+-  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2023</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Revive, Restore, Revitalize: An Eco-economic Methodology for Maasai Mara**
 
 **He SUN**, Junfeng ZHU, Yipeng XU
