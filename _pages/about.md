@@ -50,18 +50,6 @@ Shang CHI, **He SUN**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICM 2022</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Revive, Restore, Revitalize: An Eco-economic Methodology for Maasai Mara**
-
-**He SUN**, Junfeng ZHU, Yipeng XU
-
-[**Project**](https://arxiv.org/abs/2309.07165v1) | MCM Awarded Paper
--  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
-</div>
-</div>
-
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
