@@ -39,7 +39,7 @@ Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi*, Wei Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/Quantric.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Quantric: An Experimental State-Based Quantum Programming Language**
