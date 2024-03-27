@@ -58,7 +58,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 **He Sun**, Junfeng Zhu, Yipeng Xu
 
-[Awarded](https://arxiv.org/abs/2309.07165v1) | MCM 2023 | Co-1st Author
+[Awarded](https://arxiv.org/abs/2309.07165v1) | MCM 2023 | 1st Author
 -  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 </div>
 </div>
@@ -70,7 +70,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 **He Sun**, Junfeng Zhu, Yipeng Xu
 
-[Awarded](https://arxiv.org/abs/2211.02023) | [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/) | ICM 2022 | Co-1st Author
+[Awarded](https://arxiv.org/abs/2211.02023) | [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/) | ICM 2022 | 1st Author
 -  The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 -  Notably featured on [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/),  an astronomy tech media outlet from Canada.
 </div>
