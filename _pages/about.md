@@ -77,8 +77,14 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Zhenfund (China’s premier angel investment fund) 13th ZhenResidence Entrepreneur Membership (25 start-ups/y)
+- *2023.05* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
+- *2023.05* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
+- *2023.05* Zhejiang Provincial Scholarship
+- *2022.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
+- *2023.05* Oxford Study Abroad Outstanding Scholarship
+- *2023.05* UNNC Dean’s Scholarship
+- *2023.05* UNNC Outstanding Student Leader
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
