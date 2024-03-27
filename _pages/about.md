@@ -71,7 +71,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 **He Sun**, Junfeng Zhu, Yipeng Xu
 
 [Awarded](https://arxiv.org/abs/2211.02023) | [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/) | ICM 2022 | Co-1st Author
--  The Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
+-  The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 -  Notably featured on [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/),  an astronomy tech media outlet from Canada.
 </div>
 </div>
@@ -85,7 +85,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
-- *2023.06*, On Generative AI and Entrepreneurship as an Undergraduate Founder, International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
+- *2023.06*, On Generative AI and Entrepreneurship - as an Undergraduate Founder, International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
 - *2023.05*, Saliency Detection in Garbage Classification, The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.  
 
 # 💻 Internships
