@@ -39,7 +39,7 @@ Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi*, Wei Wan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TQE 2024</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Quantric: An Experimental State-Based Quantum Programming Language**
@@ -58,7 +58,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 **He Sun**, Junfeng Zhu, Yipeng Xu
 
-[Awarded](https://arxiv.org/abs/2309.07165v1) | MCM 2023 | 1st Author
+[Awarded](https://arxiv.org/abs/2309.07165v1) | MCM 2023 | Co-1st Author
 -  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 </div>
 </div>
@@ -70,7 +70,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 **He Sun**, Junfeng Zhu, Yipeng Xu
 
-[Awarded](https://arxiv.org/abs/2211.02023) | [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/) | ICM 2022 | 1st Author
+[Awarded](https://arxiv.org/abs/2211.02023) | [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/) | ICM 2022 | Co-1st Author
 -  The Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 -  Notably featured on [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/),  an astronomy tech media outlet from Canada.
 </div>
