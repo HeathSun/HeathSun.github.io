@@ -27,7 +27,7 @@ redirect_from:
 
 [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Spatially Programmable Multi-Luminescence Optogenetic Platform for Wound-healing**
