@@ -23,7 +23,7 @@ redirect_from:
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Invited as 
   
-# 📝 Project Experience
+# 📝 Publications
 
 [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 
