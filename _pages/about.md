@@ -63,7 +63,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICM 2022</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICM 2022</div><img src='images/ICM2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Research on the Impact of Asteroid Mining on Global Equity**
