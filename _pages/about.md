@@ -32,7 +32,7 @@ redirect_from:
 
 **Spatially Programmable Multi-Luminescence Optogenetic Platform for Wound-healing**
 
-Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi*, Wei Wang* 
+Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
 
 **In Preparation** | Nature Biotechnology 2024 | 2nd Author
 -  Zhejiang University.
