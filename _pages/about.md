@@ -96,6 +96,9 @@ Developed a system
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.10</div><img src='images/Snakee_Maya.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Snakee Maya : Wrath of the Feathered Serpent**
 
 Java Game Development
@@ -120,5 +123,5 @@ Java Game Development
 - *2023.06*, On Generative AI and Entrepreneurship - as an Undergraduate Founder, International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
 - *2023.05*, Saliency Detection in Garbage Classification Visual Algorithm, The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.  
 
-# 💻 Internships
+# Extracurricular
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
