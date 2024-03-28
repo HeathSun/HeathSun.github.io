@@ -82,6 +82,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 <div class='paper-box-text' markdown="1">
 
 **Snakee Maya : Wrath of the Feathered Serpent**
+
 Java Game Development
 </div>
 </div>
