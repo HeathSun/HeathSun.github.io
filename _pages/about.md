@@ -123,5 +123,5 @@ Java Game Development
 - *2023.06*, On Generative AI and Entrepreneurship - as an Undergraduate Founder, International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
 - *2023.05*, Saliency Detection in Garbage Classification Visual Algorithm, The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.  
 
-# Extracurricular
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Hobbies
+- Archery
