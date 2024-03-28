@@ -10,13 +10,13 @@ main:
     url: "/#-publications"
     
   - title: "Personal Projects"
-    url: "/#-personal-projects"
+    url: "/"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#"
+    url: "/#-educations"
 
   - title: "Invited Talks"
     url: "/#-invited-talks"
