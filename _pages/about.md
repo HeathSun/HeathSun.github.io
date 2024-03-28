@@ -78,7 +78,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 # Personal Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/Snakee_Maya.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/Pettheon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pettheon: An iOS Mobile App Design Providing Therapy Pets for Hire**
