@@ -76,7 +76,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 </div>
 </div>
 
-# Personal Projects
+# Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/Pettheon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

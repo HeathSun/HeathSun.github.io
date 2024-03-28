@@ -20,7 +20,7 @@ Quantric: An Experimental State-Based Quantum Programming Language
 Revive, Restore, Revitalize: An Eco-economic Methodology for Maasai Mara
 Research on the Impact of Asteroid Mining on Global Equity
 
-Personal Projects
+Projects
 
 Pettheon: An iOS Mobile App Design Providing Therapy Pets for Hire
 Human Computer Interaction
