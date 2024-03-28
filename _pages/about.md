@@ -76,6 +76,16 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 </div>
 </div>
 
+# Personal Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.10</div><img src='images/Snakee_Maya.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Snakee Maya : Wrath of the Feathered Serpent**
+Java Game Development
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.06* Zhenfund (China’s premier angel investment fund) 13th ZhenResidence Entrepreneur Membership (25 start-ups/y)
 - *2023.05* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
