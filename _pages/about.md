@@ -25,7 +25,7 @@ redirect_from:
   
 # 📝 Publications
 
-[\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,7 +83,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 **Pettheon: An iOS Mobile App Design Providing Therapy Pets for Hire**
 
-Human Computer Interaction
+Human Computer Interaction | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 </div>
 </div>
 
@@ -101,7 +101,7 @@ Developed a system
 
 **Snakee Maya : Wrath of the Feathered Serpent**
 
-Java Game Development
+Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 </div>
 </div>
 
