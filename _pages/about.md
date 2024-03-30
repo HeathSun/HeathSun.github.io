@@ -22,6 +22,10 @@ redirect_from:
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Invited as 
+
+# 📝 Experience
+
+
   
 # 📝 Publications
 
@@ -76,7 +80,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 </div>
 </div>
 
-# Projects
+# 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/Pettheon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -153,7 +157,7 @@ Poetry Collection Website
 - *2023.06*, On Generative AI and Entrepreneurship - as an Undergraduate Founder, International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
 - *2023.05*, Saliency Detection in Garbage Classification Visual Algorithm, The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.  
 
-# Hobbies
+# 📝 Hobbies
 **Nottingham Alliance of Sports Archery (China Campus)**
 
 Co-Founder, Vice-President and Program Planner | 2022 Best Sports Club Award
@@ -162,4 +166,4 @@ Co-Founder, Vice-President and Program Planner | 2022 Best Sports Club Award
 - Selected for the university archery team as the first players.
 
 **Beyond Archery**
-- Boardgame design, squash, endurance running, anthropology, tomb visit.
+- Boardgame design, squash, endurance running, sci-fi, anthropology, tomb visit.
