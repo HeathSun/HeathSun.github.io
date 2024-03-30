@@ -158,7 +158,7 @@ Poetry Collection Website
 
 Co-Founder, Vice-President and Program Planner | 2022 Best Sports Club Award
 - Initiated a reward strategy in collaboration with 16 local restaurants and expanded the club members to 280 in a year.
-- Organized two themed (Astronomy and Taoism Culture) archery events and built a multi-level prediction model to ensure dynamic prize management.
+- Organized two annual themed (Astronomy and Taoism Culture) archery events and built a multi-level prediction model to ensure dynamic prize management.
 - Selected for the university archery team as the first players.
 
 **Beyond Archery**
