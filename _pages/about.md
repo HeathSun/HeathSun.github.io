@@ -134,7 +134,7 @@ Poetry Collection Website
 </div>
 
 # 🎖 Honors and Awards
-- *2023.06* Zhenfund (China’s premier angel investment fund) 13th ZhenResidence Entrepreneur Membership (25 start-ups/y)
+- *2023.06* Zhenfund (China’s premier angel investment fund) 13th ZhenResidence (25 start-ups/y)
 - *2023.05* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
 - *2023.05* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
 - *2023.05* Zhejiang Provincial Scholarship
