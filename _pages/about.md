@@ -118,7 +118,7 @@ Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 # 📖 Educations
 - *2023.09 - now*, The University of Nottingham, Bsc Hons 1st Class, Computer Science with Artificial Intelligence. 
 - *2022.07 - 2022.08*, The University of Oxford, Summer Programme, Artificial Intelligence and Machine Learning, Top 3%.
-- *2021.09 - 2022.06*, The University of Nottingham Ningbo China, Bsc Hons 1st Class, Artificial Intelligence and Machine Learning, 3.8/4.0 GPA.
+- *2021.09 - 2022.06*, The University of Nottingham Ningbo China, Bsc Hons 1st Class, Computer Science with Artificial Intelligence, 3.8/4.0 GPA.
 - *2018.09 - 2021.06*, Zhenhai High School, Zhejiang Province.
 
 # 💬 Invited Talks
