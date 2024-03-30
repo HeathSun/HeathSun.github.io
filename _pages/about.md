@@ -119,8 +119,7 @@ Generative AI Website
 
 **Mysticism Semantic Comparison Based on Barnum Effect and Word Embedding Clustering**
 
-NLP religious studies | [WeChat Official Account](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg)
-
+NLP religious studies
 </div>
 </div>
 
@@ -155,4 +154,5 @@ Poetry Collection Website
 - *2023.05*, Saliency Detection in Garbage Classification Visual Algorithm, The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.  
 
 # Hobbies
-- Archery
+Nottingham Alliance of Sports Archery (China Campus)
+-  Co-Founder and Vice-President · 2022 Best Sports Club Award
