@@ -87,10 +87,10 @@ Human Computer Interaction
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.10</div><img src='images/Snakee_Maya.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023.10</div><img src='images/dark_web.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Dark Web Scraper for Leichester Police**
+**Dark Web Marketplace Evidental Scraper for Leichester Police**
 
 Developed a system
 </div>
