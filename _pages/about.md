@@ -154,5 +154,7 @@ Poetry Collection Website
 - *2023.05*, Saliency Detection in Garbage Classification Visual Algorithm, The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.  
 
 # Hobbies
-Nottingham Alliance of Sports Archery (China Campus)
--  Co-Founder and Vice-President · 2022 Best Sports Club Award
+**Nottingham Alliance of Sports Archery (China Campus)**
+Co-Founder and Vice-President | 2022 Best Sports Club Award
+- Initiated a reward strategy in collaboration with 16 local restaurants and expanded the club members to 280 in a year.
+- Organized two themed archery events and built a multi-level prediction model to ensure dynamic prize management.
