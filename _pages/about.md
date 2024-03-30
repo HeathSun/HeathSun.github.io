@@ -162,4 +162,4 @@ Co-Founder, Vice-President and Program Planner | 2022 Best Sports Club Award
 - Selected for the university archery team as the first players.
 
 **Beyond Archery**
-- Boardgame design, anthropology, squash, endurance running, tomb visit.
+- Boardgame design, squash, endurance running, anthropology, tomb visit.
