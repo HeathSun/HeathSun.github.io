@@ -114,6 +114,16 @@ Generative AI Website
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Barnum_Effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Mysticism Semantic Comparison Based on Barnum Effect and Word Embedding Clustering**
+
+NLP religious studies
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.06* Zhenfund (China’s premier angel investment fund) 13th ZhenResidence Entrepreneur Membership (25 start-ups/y)
 - *2023.05* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
