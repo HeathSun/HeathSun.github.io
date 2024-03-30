@@ -119,7 +119,7 @@ Generative AI Website
 
 **Mysticism Semantic Comparison Based on Barnum Effect and Word Embedding Clustering**
 
-NLP religious studies | [\[WeChat Official Account\]](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg)
+NLP religious studies | [WeChat Official Account](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg)
 
 </div>
 </div>
