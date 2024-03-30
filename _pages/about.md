@@ -116,8 +116,10 @@ Java Game Development
 - *2023.05* UNNC Outstanding Student Leader
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, The University of Nottingham, Bsc Hons 1st Class, Computer Science with Artificial Intelligence. 
+- *2022.07 - 2022.08*, The University of Oxford, Summer Programme, Artificial Intelligence and Machine Learning, Top 3%.
+- *2021.09 - 2022.06*, The University of Nottingham Ningbo China, Bsc Hons 1st Class, Artificial Intelligence and Machine Learning, 3.8/4.0 GPA.
+- *2018.09 - 2021.06*, Zhenhai High School, Zhejiang Province.
 
 # 💬 Invited Talks
 - *2023.06*, On Generative AI and Entrepreneurship - as an Undergraduate Founder, International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
