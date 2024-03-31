@@ -28,7 +28,7 @@ redirect_from:
 
 **Prophecat App**
 
-Founder & CEO
+Founder & CEO | Product Management
 
 **Zhejiang University**
 
