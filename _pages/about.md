@@ -44,7 +44,7 @@ Machine Learning Engineer Intern | Computer Vision
 
 **China Beacons Institute**
 
-Research Assistant
+Research Assistant | Natual Language Processing
 
 # 📝 Publications
 
