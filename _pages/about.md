@@ -208,7 +208,7 @@ Co-Founder and Vice-President  | 2022 Best Sports Club Award
 - Co-founded the club, initiated a reward strategy in collaboration with 16 local restaurants and expanded the club members to 280 in a year.
 - Organized two annual themed (Astronomy and Taoism Culture) archery events and built a multi-level prediction model to ensure dynamic prize management.
 - Selected for the university archery team as the first players.
-
-**Beyond Archery**
-- [HydrogenPeace](https://space.bilibili.com/1762918942?spm_id_from=333.1007.0.0) | Bilibili (Chinese YouTube) Channel making Generative AI musical operas regarding Harry Potter series and Dune.
-- Boardgame design, squash, endurance running, sci-fi, anthropology, tomb visit.
+**AI Music**
+[HydrogenPeace](https://space.bilibili.com/1762918942?spm_id_from=333.1007.0.0) | Bilibili (Chinese YouTube) Channel making Generative AI musical operas regarding Harry Potter series and Dune.
+**Other Hobbies**
+Boardgame design, squash, endurance running, sci-fi, anthropology, tomb visit.
