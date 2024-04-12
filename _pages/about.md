@@ -25,26 +25,49 @@ redirect_from:
 
 # 📝 Experience
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Barnum_Effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Prophecat App**
 
 Founder & CEO | Product Management
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Barnum_Effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Zhejiang University**
 
 Researcher | Biomedical Engineering
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Barnum_Effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Zhejiang University**
 
 Researcher | Quantum Computing
+</div>
+</div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Barnum_Effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 **University of Nottingham Ningbo China**
 
 Machine Learning Engineer Intern | Computer Vision 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Barnum_Effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **China Beacons Institute**
 
 Research Assistant | Natual Language Processing
+</div>
+</div>
 
 # 📝 Publications
 
@@ -182,9 +205,10 @@ Poetry Collection Website
 *2021.09 - 2023.06*
 
 Co-Founder and Vice-President  | 2022 Best Sports Club Award
-- Initiated a reward strategy in collaboration with 16 local restaurants and expanded the club members to 280 in a year.
+- Co-founded the club, initiated a reward strategy in collaboration with 16 local restaurants and expanded the club members to 280 in a year.
 - Organized two annual themed (Astronomy and Taoism Culture) archery events and built a multi-level prediction model to ensure dynamic prize management.
 - Selected for the university archery team as the first players.
 
 **Beyond Archery**
+- [HydrogenPeace](https://space.bilibili.com/1762918942?spm_id_from=333.1007.0.0) | Bilibili (Chinese YouTube) Channel making Generative AI musical operas regarding Harry Potter series and Dune.
 - Boardgame design, squash, endurance running, sci-fi, anthropology, tomb visit.
