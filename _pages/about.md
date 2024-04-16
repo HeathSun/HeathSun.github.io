@@ -25,7 +25,7 @@ redirect_from:
 
 # 📝 Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Barnum_Effect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Prophecat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Prophecat App**
