@@ -87,7 +87,6 @@ Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
 Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
 
 **In Preparation** | Nature Biotechnology 2024 | 2nd Author
-
  - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
  optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
  - Completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing.
@@ -102,7 +101,6 @@ Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang
 Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
 
 **Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
-
 - Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
 - Contributed to the design of a conversion algorithm between standard quantum circuits and ZX-diagrams.
 </div>
@@ -114,7 +112,6 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 **Revive, Restore, Revitalize: An Eco-economic Methodology for Maasai Mara**
 
 **He Sun**, Junfeng Zhu, Yipeng Xu
-
 [Awarded](https://arxiv.org/abs/2309.07165v1) | MCM 2023 | 1st Author
 -  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 </div>
