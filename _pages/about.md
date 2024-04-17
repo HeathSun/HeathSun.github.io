@@ -30,7 +30,7 @@ redirect_from:
 
 **FateAlgo Ltd**
 
-Founder & CEO | Product Management | Generative AI Application | 4/2023 - Present
+Founder/CEO | GenAI App | 4/2023 - Present
 
  - Analyzed the psychological utility of divination systems using word embedded clustering based on the Barnum effect.
  - Built an AI agent offering Tarot reading and other divination services via knowledge-augmented language models.
@@ -43,7 +43,7 @@ Founder & CEO | Product Management | Generative AI Application | 4/2023 - Presen
 
 **Zhejiang University**
 
-Researcher | Biomedical Engineering | Numerical Simulation | 10/2023 - Present
+Researcher | Biomedical Engineering | 10/2023 - Present
 
  - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
  optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
