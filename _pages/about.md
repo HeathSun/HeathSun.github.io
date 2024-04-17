@@ -24,6 +24,7 @@ redirect_from:
 - *2023.10*: &nbsp;🎉 Invited as the Co-Principal Investigator (Co-PI) of the Li Dak Sum Innovation Fellowship Science and Technology Project endorsed by the RKE committee.
 - *2023.05*: &nbsp;🎉 Participated based on recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
 
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
@@ -34,9 +35,7 @@ redirect_from:
 Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
 
 **In Preparation** | Nature Biotechnology 2024 | 2nd Author
- - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
- optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
- - Completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing.
+
 </div>
 </div>
 
@@ -48,8 +47,7 @@ Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang
 Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
 
 **Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
-- Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
-- Contributed to the design of a conversion algorithm between standard quantum circuits and ZX-diagrams.
+
 </div>
 </div>
 
@@ -61,7 +59,6 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 **FateAlgo Ltd**
 
 Founder/CEO | GenAI App | 4/2023 - Present
-
  - Analyzed the psychological utility of divination systems using word embedded clustering based on the Barnum effect.
  - Built an AI agent offering Tarot reading and other divination services via knowledge-augmented language models.
  - Spearheaded development of the iOS app and raised £90,000 in funding from the Li Dak Sum Innovation Foundation.
@@ -74,6 +71,10 @@ Founder/CEO | GenAI App | 4/2023 - Present
 **Zhejiang University**
 
 Co-Researcher | Bioengineering × Numerical Simulation | 10/2023 - Present
+ - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
+ optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
+ - Completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing.
+
 </div>
 </div>
 
@@ -82,6 +83,8 @@ Co-Researcher | Bioengineering × Numerical Simulation | 10/2023 - Present
 **University of Nottingham Ningbo China × Vichnet Technology Co., Ltd**
 
 Deep Learning Engineer Intern | Computer Vision × Digital Twin | 1/2023 - 3/2023
+- Trained and fused multiple deep learning models, primarily DenseNets, ResNets, and VGGs, to combine saliency detection and image recognition for trash/garbage classification robots, achieving a test accuracy of 99.6%.
+- Participated in deploying YOLOv5 to detect and track 32 categories of unsafe actions with occlusion in a factory.
 </div>
 </div>
 
@@ -91,6 +94,8 @@ Deep Learning Engineer Intern | Computer Vision × Digital Twin | 1/2023 - 3/202
 **USTC**
 
 Research Assistant | Functional Quantum Compiler | 9/2022 - 12/2022
+- Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
+- Contributed to the design of a conversion algorithm between standard quantum circuits and ZX-diagrams.
 </div>
 </div>
 
@@ -102,6 +107,8 @@ Research Assistant | Functional Quantum Compiler | 9/2022 - 12/2022
 **China Beacons Institute**
 
 Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
+- Investigated the feasibility of Bert-like models in MRC tasks on short-text data abstracted from pharmaceutical videos.
+- Fine-tuned a Medical Q&A model for CSPC Group based on DuReader and validated it using Butylphenol videos.
 </div>
 </div>
 
