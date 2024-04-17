@@ -60,7 +60,7 @@ Deep Learning Engineer Intern | Computer Vision × Digital Twin | 1/2023 - 3/202
 
 **USTC**
 
-Research Assistant | Quantum Computing | 9/2022 - 12/2022
+Research Assistant | Functional Quantum Programming Language | 9/2022 - 12/2022
 </div>
 </div>
 
@@ -71,7 +71,7 @@ Research Assistant | Quantum Computing | 9/2022 - 12/2022
 
 **China Beacons Institute**
 
-Research Assistant | Natual Language Processing | 5/2022 - 8/2022
+Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
 </div>
 </div>
 
