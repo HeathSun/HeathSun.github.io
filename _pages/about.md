@@ -25,7 +25,7 @@ redirect_from:
 
 # 📝 Experience
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/Prophecat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/Prophecat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **FateAlgo Ltd**
@@ -34,7 +34,7 @@ Founder & CEO | Product Management | Generative AI Application
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/ZJU.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/ZJU.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Zhejiang University**
@@ -43,7 +43,7 @@ Researcher | Biomedical Engineering
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/USTC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/USTC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **USTC**
@@ -52,7 +52,7 @@ Researcher | Quantum Computing
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/UNNC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/UNNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **University of Nottingham Ningbo China**
 
@@ -60,7 +60,7 @@ Machine Learning Engineer Intern | Computer Vision
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022.07</div><img src='images/CBI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/CBI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **China Beacons Institute**
