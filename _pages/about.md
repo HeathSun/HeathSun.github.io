@@ -106,6 +106,10 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 </div>
 </div>
 
+
+# 📝 Projects
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2023</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -129,8 +133,6 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 -  Notably featured on [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/),  an astronomy tech media outlet from Canada.
 </div>
 </div>
-
-# 📝 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024.03</div><img src='images/Pettheon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
