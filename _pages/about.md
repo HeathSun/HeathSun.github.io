@@ -47,7 +47,7 @@ Co-Researcher | Bioengineering × Numerical Simulation | 10/2023 - Present
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2023</div><img src='images/UNNC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/UNNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **University of Nottingham Ningbo China × Vichnet Technology Co., Ltd**
 
@@ -55,12 +55,12 @@ Deep Learning Engineer Intern | Computer Vision × Digital Twin | 1/2023 - 3/202
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/USTC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202</div><img src='images/USTC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **USTC**
 
-Research Assistant | Functional Quantum Programming Language | 9/2022 - 12/2022
+Research Assistant | Functional Quantum Compiler | 9/2022 - 12/2022
 </div>
 </div>
 
