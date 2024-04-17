@@ -75,6 +75,18 @@ Research Assistant | Functional Quantum Compiler | 9/2022 - 12/2022
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/CBI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**China Beacons Institute**
+
+Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
+- Investigated the feasibility of Bert-like models in MRC tasks on short-text data abstracted from pharmaceutical videos.
+- Fine-tuned a Medical Q&A model for CSPC Group based on DuReader and validated it using Butylphenol videos.
+</div>
+</div>
+
+
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
@@ -101,16 +113,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/CBI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**China Beacons Institute**
-
-Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
-- Investigated the feasibility of Bert-like models in MRC tasks on short-text data abstracted from pharmaceutical videos.
-- Fine-tuned a Medical Q&A model for CSPC Group based on DuReader and validated it using Butylphenol videos.
-</div>
-</div>
 
 
 # 📝 Projects
@@ -146,6 +149,8 @@ Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
 **Pettheon: An iOS Mobile App Design Providing Therapy Pets for Hire**
 
 Human Computer Interaction | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
+- Designed the pet hiring iOS mobile app, utilizing Figma for UI/UX creation. 
+- Conducted heuristic and design principles evaluations, leading the team in comprehensive user assessments for optimal user experience refinement.
 </div>
 </div>
 
@@ -153,8 +158,8 @@ Human Computer Interaction | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZX
 <div class='paper-box-text' markdown="1">
 
 **Dark Web Marketplace Evidental Scraper for Leichester Police**
-
-Developed a system
+- Led Vue.js frontend development for a Dark Web Marketplace Evidential Scraper, ensuring seamless user interaction. 
+- As the Git Admin, managed full stack alignment, and successfully pitched the system to Leichester Police officers, highlighting its capabilities and benefits for law enforcement.
 </div>
 </div>
 
@@ -164,6 +169,8 @@ Developed a system
 **Snakee Maya : Wrath of the Feathered Serpent**
 
 Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
+- Completed the Mesoamerican themed snake game crafting intricate gameplay mechanics and graphics from scratch without relying on a game engine. 
+- Leveraging AI generative images, I infused the game with visually captivating elements and implemented customized skills to enhance player immersion and engagement.
 </div>
 </div>
 
