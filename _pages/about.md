@@ -43,7 +43,7 @@ Founder & CEO | Product Management | Generative AI Application | 4/2023 - Presen
 
 **Zhejiang University**
 
-Co-Researcher | Biomedical Engineering | Numerical Simulation | 10/2023 - Present
+Researcher | Biomedical Engineering | Numerical Simulation | 10/2023 - Present
 
  - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
  optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
