@@ -66,7 +66,7 @@ Deep Learning Engineer Intern | Computer Vision × Digital Twin | 1/2023 - 3/202
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">202</div><img src='images/USTC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**USTC**
+**University of Science and Technology of China**
 
 Research Assistant | Functional Quantum Compiler | 9/2022 - 12/2022
 - Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
