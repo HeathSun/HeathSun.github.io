@@ -21,7 +21,36 @@ redirect_from:
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Invited as 
+- *2022.02*: &nbsp;🎉🎉 Invited as the Co-Principal Investigator (Co-PI) of the Li Dak Sum Innovation Fellowship Science and Technology Project endorsed by the RKE committee.
+
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Spatially Programmable Multi-Luminescence Optogenetic Platform for Wound-healing**
+
+Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
+
+**In Preparation** | Nature Biotechnology 2024 | 2nd Author
+ - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
+ optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
+ - Completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/Quantric.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Quantric: An Experimental State-Based Quantum Programming Language**
+
+Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
+
+**Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
+- Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
+- Contributed to the design of a conversion algorithm between standard quantum circuits and ZX-diagrams.
+</div>
+</div>
 
 # 📝 Experience
 
@@ -72,37 +101,6 @@ Research Assistant | Functional Quantum Compiler | 9/2022 - 12/2022
 **China Beacons Institute**
 
 Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
-</div>
-</div>
-
-# 📝 Publications
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Spatially Programmable Multi-Luminescence Optogenetic Platform for Wound-healing**
-
-Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
-
-**In Preparation** | Nature Biotechnology 2024 | 2nd Author
- - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
- optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
- - Completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/Quantric.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Quantric: An Experimental State-Based Quantum Programming Language**
-
-Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
-
-**Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
-- Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
-- Contributed to the design of a conversion algorithm between standard quantum circuits and ZX-diagrams.
 </div>
 </div>
 
