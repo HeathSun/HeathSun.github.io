@@ -25,31 +25,6 @@ redirect_from:
 - *2023.05*: &nbsp;🎉 Participated based on recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
 
 
-# 📝 Publications
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Spatially Programmable Multi-Luminescence Optogenetic Platform for Wound-healing**
-
-Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
-
-**In Preparation** | Nature Biotechnology 2024 | 2nd Author
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/Quantric.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Quantric: An Experimental State-Based Quantum Programming Language**
-
-Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
-
-**Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
-
-</div>
-</div>
 
 # 📝 Experience
 
@@ -100,6 +75,31 @@ Research Assistant | Functional Quantum Compiler | 9/2022 - 12/2022
 </div>
 
 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Biotech 2024</div><img src='images/Optogenetic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Spatially Programmable Multi-Luminescence Optogenetic Platform for Wound-healing**
+
+Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
+
+**In Preparation** | Nature Biotechnology 2024 | 2nd Author
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/Quantric.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Quantric: An Experimental State-Based Quantum Programming Language**
+
+Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
+
+**Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021</div><img src='images/CBI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
