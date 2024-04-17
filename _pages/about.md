@@ -180,7 +180,7 @@ Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 **Ptah AI**
 
 Generative AI Website
-- Developed the initial web version of the Prophecat app, Ptah AI, a generative AI website that provides tailored responses based on user card draws and inquiries, leveraging a refined model informed by the Thoth Tarot knowledge base.
+- Developed the initial web version of the Prophecat app, Ptah AI, a generative AI website that provided tailored responses based on user card draws and inquiries, leveraging a refined model informed by the Thoth Tarot knowledge base.
 </div>
 </div>
 
