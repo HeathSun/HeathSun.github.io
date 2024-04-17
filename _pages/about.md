@@ -43,22 +43,15 @@ Founder/CEO | GenAI App | 4/2023 - Present
 
 **Zhejiang University**
 
-Researcher | Biomedical Engineering | 10/2023 - Present
-
- - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
- optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
- - Completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing.
+Co-Researcher | Bioengineering × Numerical Simulation | 10/2023 - Present
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/UNNC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-**University of Nottingham Ningbo China**
+**University of Nottingham Ningbo China × Vichnet Technology Co., Ltd**
 
-Deep Learning Engineer Intern | Computer Vision | 1/2023 - 3/2023
-
-- Trained and fused multiple deep learning models, primarily DenseNets, ResNets, and VGGs, to combine saliency detection and image recognition for trash/garbage classification robots, achieving a test accuracy of 99.6%.
-- Participated in deploying YOLOv5 to detect and track 32 categories of unsafe actions with occlusion in a factory.
+Deep Learning Engineer Intern | Computer Vision × Digital Twin | 1/2023 - 3/2023
 </div>
 </div>
 
@@ -67,10 +60,7 @@ Deep Learning Engineer Intern | Computer Vision | 1/2023 - 3/2023
 
 **USTC**
 
-Researcher | Quantum Computing | 9/2022 - 12/2022
-
-- Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
-- Contributed to the design of a conversion algorithm between standard quantum circuits and ZX-diagrams.
+Research Assistant | Quantum Computing | 9/2022 - 12/2022
 </div>
 </div>
 
@@ -82,9 +72,6 @@ Researcher | Quantum Computing | 9/2022 - 12/2022
 **China Beacons Institute**
 
 Research Assistant | Natual Language Processing | 5/2022 - 8/2022
-
-- Investigated the feasibility of Bert-like models in MRC tasks on short-text data abstracted from pharmaceutical videos.
-- Fine-tuned a Medical Q&A model for CSPC Group based on DuReader and validated it using Butylphenol videos.
 </div>
 </div>
 
@@ -99,8 +86,11 @@ Research Assistant | Natual Language Processing | 5/2022 - 8/2022
 
 Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
 
-**In Preparation** | Nature Biotechnology 2024 | 2nd Author
--  Zhejiang University.
+**In Preparation** | Nature Biotechnology 2024 | 2nd Author | Research at Zhenjiang University
+
+ - Applied the Beer-Lambert law to model the spatial distribution of light intensity decay for conical micro-needles,
+ optimizing the fitness to achieve an adaptive linear intensity gradient in 16 directions across the optogenetic array.
+ - Completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing.
 </div>
 </div>
 
@@ -111,8 +101,10 @@ Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang
 
 Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
 
-**Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
-- Zhejiang University.
+**Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author | Research at USTC
+
+- Participated in developing the functional quantum programming language Quantric’s hardware-decoupled compiler, including superposition state control flows and innovative compile-time quantum error correction algorithm with 20-50% fewer LOC/pm compared to IBM’s Qiskit.
+- Contributed to the design of a conversion algorithm between standard quantum circuits and ZX-diagrams.
 </div>
 </div>
 
