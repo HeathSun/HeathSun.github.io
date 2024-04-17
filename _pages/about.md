@@ -55,7 +55,7 @@ Researcher | Biomedical Engineering | Numerical Simulation | 10/2023 - Present
 <div class='paper-box-text' markdown="1">
 **University of Nottingham Ningbo China**
 
-Machine Learning Engineer Intern | Computer Vision | 1/2023 - 3/2023
+Deep Learning Engineer Intern | Computer Vision | 1/2023 - 3/2023
 
 - Trained and fused multiple deep learning models, primarily DenseNets, ResNets, and VGGs, to combine saliency detection and image recognition for trash/garbage classification robots, achieving a test accuracy of 99.6%.
 - Participated in deploying YOLOv5 to detect and track 32 categories of unsafe actions with occlusion in a factory.
