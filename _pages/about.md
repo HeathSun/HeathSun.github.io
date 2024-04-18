@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'>
 Hello there! I'm He (Shawn) Sun,  a passionate undergraduate researcher and developer. I am currently in my second year of studying for a Bachelor of Science (Hons) in Computer Science with Artificial Intelligence at the University of Nottingham. Additionally, I scored top 3% in a deep learning program at the University of Oxford in 2022 summer. 
 
-As the founder and CEO of FateAlgo Ltd, I've led the development of an AI-native application offering tarot reading and divination services, securing £50,000 in funding from the Li Dak Sum Innovation Foundation and acceptance into the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/year) as the youngest member in history.
+As the founder and CEO of FateAlgo Ltd, I've led the development of an AI-native application offering tarot reading and divination services, securing £50,000 in funding from the Li Dak Sum Innovation Foundation and acceptance into the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (24 start-ups/year) as the youngest member in history.
 
 In research, my contributions span diverse fields. At [Zhejiang University](https://www.topuniversities.com/universities/zhejiang-university), I completed all programming aspects of the multi-luminescence optogenetic platform for wound-healing, set for publication in "Nature Biotechnology". Additionally, my research assistant work on functional quantum programming at the University of Science and Technology of China resulted in a compiler for the "Quantric" language, winning the 17th [“Challenge Cup”](https://en.wikipedia.org/wiki/Challenge_Cup_Competition_of_Science_Achievement_in_China) Academic Sci&Tech Contest National 1st Prize. I participated in research on computer vision and machine reading comprehension at my university and the China Beacons Institute. I also delivered a speech representing our work at The 3rd Symposium on Science and Engineering Education, hosted by the [China Association for Science and Technology](https://en.wikipedia.org/wiki/China_Association_for_Science_and_Technology).
 
@@ -29,7 +29,7 @@ On a personal front, I've channeled my creativity into various projects, such as
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉 Invited as the Co-Principal Investigator (Co-PI) of the Li Dak Sum Innovation Fellowship Science and Technology Project.
-- *2023.07*: &nbsp;🎉 Joined based on a venture capitalist's recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
+- *2023.07*: &nbsp;🎉 Joined based on a venture capitalist's recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (24 start-ups/y).
 - *2023.07*: &nbsp;🎉 Invited talk on the International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
 - *2023.07*: &nbsp;🎉 Invited report on the The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.
 
@@ -223,7 +223,7 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 
 # 🎖️ Honors and Awards
 - *2023.10* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
-- *2023.07* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch Membership (25 start-ups/y)
+- *2023.07* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch Membership (24 start-ups/y)
 - *2023.05* UNNC Outstanding Student Leader
 - *2022.12* Zhejiang Provincial Scholarship
 - *2022.12* UNNC Dean’s Scholarship
