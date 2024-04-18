@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'>
-Hello there! I'm He (Shawn) Sun,  a passionate undergraduate researcher and developer. I am currently in my second year of studying for a Bachelor of Science (Hons) in Computer Science with Artificial Intelligence at the University of Nottingham. Additionally, I scored top 3% in a deep learning program at the University of Oxford in 2022 summer. 
+Hello there! I'm He (Shawn) Sun,  a passionate undergraduate researcher, developer and product manager. I am currently in my second year of studying for a Bachelor of Science (Hons) in Computer Science with Artificial Intelligence at the University of Nottingham. Additionally, I scored top 3% in a deep learning program at the University of Oxford in 2022 summer. 
 
 As the founder and CEO of FateAlgo Ltd, I've led the development of an AI-native application offering tarot reading and divination services, securing £50,000 in funding from the Li Dak Sum Innovation Foundation and acceptance into the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (24 start-ups/year) as the youngest member in history.
 
@@ -43,7 +43,7 @@ On a personal front, I've channeled my creativity into various projects, such as
 
 **FateAlgo Ltd**
 
-Founder/CEO | GenAI App | 4/2023 - Present
+Founder/CEO · Product Manager | GenAI App | 4/2023 - Present
  - Analyzed the psychological utility of divination systems using word embedded clustering based on the Barnum effect.
  - Built an AI agent offering Tarot reading and other divination services via knowledge-augmented language models.
  - Spearheaded development of the iOS app and raised £50,000 in funding from the Li Dak Sum Innovation Foundation.
