@@ -127,6 +127,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 **He Sun**, Junfeng Zhu, Yipeng Xu
 [Awarded](https://arxiv.org/abs/2309.07165v1) | MCM 2023 | 1st Author
 -  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
+-  Developed a dynamic agent-based model to simulate the Maasai Mara ecosystem, integrating 71 animal species, 10 human classifications, and 2 resource types, and formulated 21 management strategies to prioritize environmental health, research, economic growth, and security through a game-theoretic framework.
 </div>
 </div>
 
