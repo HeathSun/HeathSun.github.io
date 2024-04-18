@@ -141,7 +141,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 [Awarded](https://arxiv.org/abs/2211.02023) | [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/) | ICM 2022 | 1st Author
 -  The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 -  Notably featured on [Universe Today](https://www.universetoday.com/158611/what-would-asteroid-mining-do-to-the-worlds-economy/),  an astronomy tech media outlet from Canada.
--  We developed a model incorperating Unified Equity Index (UEI), entropy method (TEM) for dispersion assessment, principal component analysis (PCA) for dimensionality reduction, and grey relational analysis (GRA) for predicting mineral value changes. These methods informed our assessment of global equity in celestial body exploration and asteroid mining, guiding the formulation of policies to ensure fairness and mitigate future inequalities.
+-  We developed a model incorperating entropy method for dispersion assessment, principal component analysis and grey relational analysis for predicting mineral value changes to inform our assessment of global equity in celestial body exploration and asteroid mining, guiding the formulation of policies.
 </div>
 </div>
 
