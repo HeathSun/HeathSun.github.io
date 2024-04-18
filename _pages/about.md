@@ -29,7 +29,7 @@ On a personal front, I've channeled my creativity into various projects, such as
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉 Invited as the Co-Principal Investigator (Co-PI) of the Li Dak Sum Innovation Fellowship Science and Technology Project endorsed by the RKE committee.
-- *2023.07*: &nbsp;🎉 Participated based on a venture capitalist's recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
+- *2023.07*: &nbsp;🎉 Joined based on a venture capitalist's recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
 - *2023.07*: &nbsp;🎉 Invited talk on the International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
 - *2023.07*: &nbsp;🎉 Invited report on the The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.
 
