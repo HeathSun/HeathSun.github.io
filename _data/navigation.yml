@@ -23,6 +23,3 @@ main:
 
   - title: "Hobbies"
     url: "/"
-    
-  - title: "Download CV"
-    url: "./DownloadCV.html"
