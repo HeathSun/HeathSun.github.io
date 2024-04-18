@@ -190,8 +190,7 @@ Generative AI Website
 **Esotericism Semantic Comparison Based on Barnum Effect and Word Embedding Clustering**
 
 NLP religious studies | [WeChat Blog](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1UV4_SXg)
-- Developed and implemented a Word Embedding Clustering model to quantify the Barnum Effect in tarot card meanings.
-- Utilized NLP techniques to analyze and compare the semantic similarities and differences between different tarot card interpretations.
+- Developed and implemented a Word Embedding Clustering model to quantify the Barnum Effect in tarot card meanings, thereby analyzed and compared the semantic similarities and differences between different tarot card interpretations.
 - Created visualizations using t-SNE to illustrate the clustering and distribution of tarot card meanings based on word embeddings.
 </div>
 </div>
@@ -201,7 +200,7 @@ NLP religious studies | [WeChat Blog](https://mp.weixin.qq.com/s/5g5VZLNrwtjUNY1
 
 **He Sun Poetry**
 
-Poetry Collection Website
+Personal poetry anthology website
 
 </div>
 </div>
