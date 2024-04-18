@@ -223,7 +223,7 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 
 # 🎖️ Honors and Awards
 - *2023.10* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
-- *2023.07* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch Membership(25 start-ups/y)
+- *2023.07* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch Membership (25 start-ups/y)
 - *2023.05* UNNC Outstanding Student Leader
 - *2022.12* Zhejiang Provincial Scholarship
 - *2022.12* UNNC Dean’s Scholarship
