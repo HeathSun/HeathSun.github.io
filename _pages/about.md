@@ -63,7 +63,7 @@ Deep Learning Engineer Intern | Computer Vision × Digital Twin | 1/2023 - 3/202
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">202</div><img src='images/USTC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2022</div><img src='images/USTC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **University of Science and Technology of China**
