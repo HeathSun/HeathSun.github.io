@@ -125,6 +125,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 **Revive, Restore, Revitalize: An Eco-economic Methodology for Maasai Mara**
 
 **He Sun**, Junfeng Zhu, Yipeng Xu
+
 [Awarded](https://arxiv.org/abs/2309.07165v1) | MCM 2023 | 1st Author
 -  The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader and Main Model Builder).
 -  Developed a dynamic agent-based model to simulate the Maasai Mara ecosystem, integrating 71 animal species, 10 human classifications, and 2 resource types, and formulated 21 management strategies to prioritize environmental health, research, economic growth, and security through a game-theoretic framework.
@@ -210,10 +211,10 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 
 # 🎖 Honors and Awards
 - *2023.05* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch(25 start-ups/y)
-- *2023.05* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
-- *2023.05* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
-- *2023.05* Zhejiang Provincial Scholarship
-- *2022.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
+- *2023.04* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
+- *2022.03* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
+- *2022.02* Zhejiang Provincial Scholarship
+- *2021.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
 - *2023.05* Oxford Study Abroad Outstanding Scholarship
 - *2023.05* UNNC Dean’s Scholarship
 - *2023.05* UNNC Outstanding Student Leader
