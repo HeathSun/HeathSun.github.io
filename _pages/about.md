@@ -26,7 +26,7 @@ redirect_from:
 
 
 
-# 📝 Experience
+# 💼 Experience
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024</div><img src='images/Prophecat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,7 +116,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 
 
-# 📝 Projects
+# 🛰️ Projects
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MCM 2023</div><img src='images/MCM2023.png' alt="sym" width="100%"></div></div>
@@ -209,7 +209,7 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🎖️ Honors and Awards
 - *2023.10* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
 - *2023.07* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch Membership(25 start-ups/y)
 - *2023.05* UNNC Outstanding Student Leader
@@ -219,17 +219,17 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 - *2022.09* Oxford Study Abroad Outstanding Scholarship
 - *2021.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
 
-# 📖 Educations
+# 🏛️ Educations
 - *2023.09 - now*, The University of Nottingham, Bsc Hons 1st Class, 2 years exchange, Computer Science with Artificial Intelligence. 
 - *2022.07 - 2022.08*, The University of Oxford, Summer Programme, Artificial Intelligence and Machine Learning, Top 3%.
 - *2021.09 - 2022.06*, The University of Nottingham Ningbo China, Bsc Hons 1st Class, Computer Science with Artificial Intelligence, 3.8/4.0 GPA.
 - *2018.09 - 2021.06*, Zhenhai High School, Zhejiang Province.
 
-# 💬 Invited Talks
+# 🗿 Invited Talks
 - *2023.06*, On Generative AI and Entrepreneurship - as an Undergraduate Founder, International Symposium on Nurturing Glocal Talents for the New Era, ITDRB.
 - *2023.05*, Saliency Detection in Garbage Classification Visual Algorithm, The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology.  
 
-# 📝 Hobbies
+# 🏹 Hobbies
 **Nottingham Alliance of Sports Archery (China Campus)**
 
 *2021.09 - 2023.06*
