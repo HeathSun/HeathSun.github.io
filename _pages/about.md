@@ -15,7 +15,19 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'>About me asdfasdfasdf</span>
+<span class='anchor' id='about-me'>
+Hello there! I'm He (Shawn) Sun, an enterprising undergraduate researcher, developer and product manager. Currently in my second year pursuing a Bachelor of Science (Hons) in Computer Science with Artificial Intelligence at the University of Nottingham, I've achieved within the top 3% in a deep learning program at the University of Oxford during the summer of 2022.
+
+As the founder and CEO of FateAlgo Ltd, I've led the development of an AI-native application offering tarot reading and divination services, securing significant interest and £90,000 in funding from the Li Dak Sum Innovation Foundation and acceptance into the 13th batch of ZhenFund's ZhenResidence (25 start-ups/year).
+
+In research, my contributions span diverse fields. At Zhejiang University, I optimized light intensity distribution for optogenetic applications, aiding in the development of a multi-luminescence optogenetic platform for wound healing, set for publication in "Nature Biotechnology." Additionally, my work on functional quantum programming at the University of Science and Technology of China resulted in a compiler for the "Quantric" language, winning the 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize. Further, I've engaged in computer vision and machine reading comprehension research at my university and the China Beacons Institute, presenting findings at The 3rd Symposium on Sci and Eng Education, China Association for Science and Technology. 
+
+On a personal front, I've channeled my creativity into various projects, such as an eco-economic methodology model for the Maasai Mara, which won meritorious prize in the International Mathematical Contest in Modeling. I've also explored the impact of asteroid mining on global equity, which was featured on Universe Today, a prominent astronomy tech media outlet. My accolades also include the Zhejiang Provincial Scholarship, the UNNC Dean's Scholarship, and the UNNC Outstanding Student Leader award, among others. My diverse projects range from human-computer interaction design to Java game development and a personal poetry website.
+
+Proficient in both Mandarin and English (IELTS 7.5), with study experience in the UK and China. I co-founded the Nottingham Alliance of Sports Archery, and initiated activities achieving recognition with the "2022 Best Sports Club Award." In my spare time, I create AI-powered musicals and share them on video streaming platforms.
+
+In summary, I am a dynamic individual with a history of innovation, leadership, and a relentless pursuit of excellence in all aspects of my endeavors.
+</span>
 
  <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
