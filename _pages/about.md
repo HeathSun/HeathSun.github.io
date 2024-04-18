@@ -114,9 +114,9 @@ Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TQE 2024</div><img src='images/Quantric.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Quantric: An Experimental State-Based Quantum Programming Language**
+**Quantric: A Novel Framework for Intuitive and Accessible Quantum Programming**
 
-Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cui*
+Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Yujian Ye*, Tianxiang Cui*
 
 **Under Review** | IEEE Transactions on Quantum Engineering 2024 | 2nd Author
 
