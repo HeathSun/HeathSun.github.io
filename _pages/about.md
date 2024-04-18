@@ -22,7 +22,7 @@ redirect_from:
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉 Invited as the Co-Principal Investigator (Co-PI) of the Li Dak Sum Innovation Fellowship Science and Technology Project endorsed by the RKE committee.
-- *2023.05*: &nbsp;🎉 Participated based on recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
+- *2023.05*: &nbsp;🎉 Participated based on a venture capitalist's recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
 
 
 
