@@ -246,7 +246,7 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 
 *2021.09 - 2023.06*
 
-Co-Founder and Vice-President  | 2022 Best Sports Club Award
+Co-Founder and Vice-President · Chief Planner  | 2022 Best Sports Club Award
 - Co-founded the club, initiated a reward strategy in collaboration with 16 local restaurants and expanded the club members to 280 in a year.
 - Organized two annual themed (Astronomy and Taoism Culture) archery events and built a multi-level prediction model to ensure dynamic prize management.
 - Selected for the university archery team as the first players.
