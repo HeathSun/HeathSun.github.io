@@ -22,7 +22,7 @@ redirect_from:
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉 Invited as the Co-Principal Investigator (Co-PI) of the Li Dak Sum Innovation Fellowship Science and Technology Project endorsed by the RKE committee.
-- *2023.05*: &nbsp;🎉 Participated based on a venture capitalist's recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
+- *2023.07*: &nbsp;🎉 Participated based on a venture capitalist's recommendation for the 13th batch of [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund)'s ZhenResidence (25 start-ups/y).
 
 
 
@@ -210,14 +210,14 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 </div>
 
 # 🎖 Honors and Awards
-- *2023.05* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch(25 start-ups/y)
-- *2023.04* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
-- *2022.03* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
-- *2022.02* Zhejiang Provincial Scholarship
-- *2021.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
-- *2023.05* Oxford Study Abroad Outstanding Scholarship
-- *2023.05* UNNC Dean’s Scholarship
+- *2023.10* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
+- *2023.07* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch Membership(25 start-ups/y)
 - *2023.05* UNNC Outstanding Student Leader
+- *2022.12* Zhejiang Provincial Scholarship
+- *2022.12* UNNC Dean’s Scholarship
+- *2022.03* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
+- *2022.09* Oxford Study Abroad Outstanding Scholarship
+- *2021.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
 
 # 📖 Educations
 - *2023.09 - now*, The University of Nottingham, Bsc Hons 1st Class, 2 years exchange, Computer Science with Artificial Intelligence. 
