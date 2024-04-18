@@ -252,4 +252,6 @@ Co-Founder and Vice-President · Chief Planner  | 2022 Best Sports Club Award
 - Selected for the university archery team as the first players.
   
 **AI Musicals**
-[HydrogenPeace](https://space.bilibili.com/1762918942?spm_id_from=333.1007.0.0) | Bilibili (Chinese YouTube) Channel making Generative AI musical operas regarding Harry Potter series and Dune.
+
+[HydrogenPeace](https://space.bilibili.com/1762918942?spm_id_from=333.1007.0.0) | Bilibili (Chinese YouTube)
+- Channel making Generative AI musical operas regarding Harry Potter series and Dune.
