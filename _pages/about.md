@@ -202,12 +202,12 @@ NLP religious studies | [[WeChat Blog]](https://mp.weixin.qq.com/s/5g5VZLNrwtjUN
 **He Sun Poetry**
 
 Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
-
+- Designed and built a website, storing the poems I wrote during my high school years that have won various levels of literary awards. The genres range from classical Chinese Yuefu poetry and Song Ci to English poetry and Elvish Quenya poetry.
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2023.06* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch(25 start-ups/y)
+- *2023.05* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch(25 start-ups/y)
 - *2023.05* The 17th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
 - *2023.05* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
 - *2023.05* Zhejiang Provincial Scholarship
