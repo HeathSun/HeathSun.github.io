@@ -170,7 +170,7 @@ Human Computer Interaction | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZX
 
 Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 - Completed the Mesoamerican themed snake game crafting intricate gameplay mechanics and graphics from scratch without relying on a game engine. 
-- Leveraging AI generative images, I infused the game with visually captivating elements and implemented customized skills to enhance player immersion and engagement.
+- Leveraging AI generative images, infused the game with visually captivating elements and implemented customized skills to enhance player immersion and engagement.
 </div>
 </div>
 
