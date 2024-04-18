@@ -183,7 +183,7 @@ Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 **Ptah AI**
 
 Generative AI Website
-- Spearheaded the development of the initial web version of the Prophecat app, Ptah AI, a generative AI website that provided tailored responses based on user card draws and inquiries, leveraging a refined model informed by the Thoth Tarot knowledge base.
+- Spearheaded development of the initial web version of the Prophecat app, Ptah AI, a generative AI website that provided tailored responses based on user card draws and inquiries, leveraging a refined model informed by the Thoth Tarot knowledge base.
 - This website helped me win the first place in the NAA Entrepreneurship Competition (out of 55 startups), and garnered favor from multiple investment institutions including Spark Venture.
 </div>
 </div>
