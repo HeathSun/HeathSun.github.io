@@ -43,7 +43,7 @@ On a personal front, I've channeled my creativity into various projects, such as
 
 **FateAlgo Ltd**
 
-Founder/CEO · Product Manager | GenAI App | 4/2023 - Present
+Founder/CEO · Product Management | GenAI App | 4/2023 - Present
  - Analyzed the psychological utility of divination systems using word embedded clustering based on the Barnum effect.
  - Built an AI agent offering Tarot reading and other divination services via knowledge-augmented language models.
  - Spearheaded development of the iOS app and raised £50,000 in funding from the Li Dak Sum Innovation Foundation.
@@ -161,7 +161,7 @@ Ziyang Wang, **He Sun**, Tiecheng Zhang, Hongzhen Chen, Lejun Chen, Tianxiang Cu
 
 **Pettheon: An iOS Mobile App Design Providing Therapy Pets for Hire**
 
-Human Computer Interaction | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
+Human Computer Interaction · Product Design | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 - Designed the pet hiring iOS mobile app, utilizing Figma for UI/UX creation. 
 - Conducted heuristic and design principles evaluations, leading the team in comprehensive user assessments for optimal user experience refinement.
 </div>
@@ -172,7 +172,7 @@ Human Computer Interaction | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZX
 
 **Dark Web Marketplace Evidental Scraper for Leichester Police**
 
-Front End Development | Cyber Security
+Front End Development · Product Management | Cyber Security
 - Led Vue.js frontend development for a Dark Web Marketplace Evidential Scraper, ensuring seamless user interaction. 
 - As the Git Admin, managed full stack alignment, and successfully pitched the system to Leichester Police officers, highlighting its capabilities and benefits for law enforcement.
 </div>
@@ -194,7 +194,7 @@ Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
 
 **Ptah AI**
 
-Generative AI Website
+Generative AI Website · Full-Stack Development · Product Management
 - Spearheaded development of the initial web version of the Prophecat app, Ptah AI, a generative AI website that provided tailored responses based on user card draws and inquiries, leveraging a refined model informed by the Thoth Tarot knowledge base.
 - This website helped me win the first place in the NAA Entrepreneurship Competition (out of 55 startups), and garnered favor from multiple investment institutions including Spark Venture.
 </div>
