@@ -174,7 +174,7 @@ Human Computer Interaction · Product Design | [\[video\]](https://www.youtube.c
 
 Front End Development · Product Management | Cyber Security
 - Led Vue.js frontend development for a Dark Web Marketplace Evidential Scraper, ensuring seamless user interaction. 
-- As the Git Admin, managed full stack alignment, and successfully pitched the system to Leichester Police officers, highlighting its capabilities and benefits for law enforcement.
+- As the Git leader of the team, managed full stack alignment, and successfully pitched the system to Leichester Police officers, highlighting its capabilities and benefits for law enforcement.
 </div>
 </div>
 
