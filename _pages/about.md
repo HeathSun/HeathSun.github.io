@@ -24,9 +24,7 @@ In research, my contributions span diverse fields. At [Zhejiang University](http
 
 On a personal front, I've channeled my creativity into various projects, such as the eco-economic model for the Maasai Mara and asteroid mining on global equity, which won meritorious prize in the International Mathematical Contest in Modeling and  the International Interdisciplinary Contest in Modeling (featured on Universe Today, a prominent Canadian astronomy tech media outlet). My accolades also include the Zhejiang Provincial Scholarship, the UNNC Dean's Scholarship, and the UNNC Outstanding Student Leader award, among others. My diverse projects range from human-computer interaction design to Java game development and a personal poetry website.
 
-*Please use the email below to contact me* 👇
-
-[he.shawn.sun@gmail.com](he.shawn.sun@gmail.com)
+**Please use this email below to contact me:**[he.shawn.sun@gmail.com](he.shawn.sun@gmail.com)
 
  <!-- <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
