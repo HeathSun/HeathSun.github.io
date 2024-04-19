@@ -183,7 +183,7 @@ Front End Development · Product Management | Cyber Security
 
 **Snakee Maya : Wrath of the Feathered Serpent**
 
-Java Game Development | [\[video\]](https://www.youtube.com/watch?v=vdQL5ZXM44M)
+Java Game Development | [\[video\]](https://www.youtube.com/watch?v=eoucdJj4mak&t=60s)
 - Completed the Mesoamerican themed snake game crafting intricate gameplay mechanics and graphics from scratch without relying on a game engine. 
 - Leveraging AI generative images, infused the game with visually captivating elements and implemented customized skills to enhance player immersion and engagement.
 </div>
