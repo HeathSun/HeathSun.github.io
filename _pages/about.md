@@ -108,7 +108,7 @@ Research Assistant | Machine Reading Comprehension | 5/2022 - 8/2022
 
 Yaping Li, Shang Chi, **He Sun**, Jiawei Kang, Zhihui Xiang, Yiying Qi, Wei Wang* 
 
-**In Preparation** | Nature Biotechnology 2024 | 2nd Author
+**In Preparation** | Nature Biotechnology 2024 | Co-1st Author
 
 </div>
 </div>
