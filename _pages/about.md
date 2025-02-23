@@ -241,11 +241,11 @@ Personal poetry anthology | [[Website]](https://www.hesunpoetry.com/)
 - *2023.10* The 18th “Challenge Cup” Extracurricular Academic Science and Technology Contest National 1st Prize
 - *2023.07* Zhenfund (China’s premier angel investment fund) ZhenResidence 13th Batch Membership (25 start-ups/y)
 - *2023.05* UNNC Outstanding Student Leader
+- *2023.05* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
 - *2022.12* Zhejiang Provincial Scholarship
 - *2022.12* UNNC Dean’s Scholarship
-- *2022.03* The International Mathematical Contest in Modeling (MCM) 2023 Meritorious Winner Top 7% (as Team Leader)
 - *2022.09* Oxford Study Abroad Outstanding Scholarship
-- *2021.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
+- *2022.05* The International Interdisciplinary Contest in Modeling (ICM) 2022 Meritorious Winner Top 7% (as Team Leader)
 
 # 🏛️ Educations
 - *2023.09 - now*, The University of Nottingham, Bsc Hons 1st Class, 2 years exchange, Computer Science with Artificial Intelligence. 
