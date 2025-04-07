@@ -46,7 +46,7 @@ Furthermore, during my internship at [Aihuashen Tech](https://www.aihuashen.com/
 
 **Aihuashen Technology × China Mobile**
 
-Multi-Agent Engineer Intern | Team Leader | 6/2024 - 8/2024  
+AI Software Engineer Intern | Team Leader | 6/2024 - 8/2024  
  - Led a six-member team to develop an internal multi-agent workflow platform for China Mobile, utilizing LangChain.  
  - Delivered a platform demo featuring a digital human front-end, contributing to the company's successful bid.  
  - Advised on the AI biography project for the Islamic world in collaboration with AceGPT (the leading Arabic LLM) and KAUST.  
