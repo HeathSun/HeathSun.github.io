@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "He Sun (Shawn)"
-description              : "CSAI Undergrad at University of Nottingham, Co-PI of Li Dak-Sum Sci&Tech Project, Founder/CEO FateAlgo, ZR 13 Batch of Zhenfund. Focusing on AI in HCI and AI for Science."
+title                    : "Heath Sun"
+description              : "CMU '26 | Applied AI Software Engineer | ZhenFund '23 Fellow | $60K Li Dak Sum Fellowship | Indie Hacker & Former Founder"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "He Sun (Shawn)"
+  name             : "Heath Sun"
   avatar           : "images/24228-Brutalism.jpeg"
-  bio              : "University of Nottingham"
-  location         : "Nottingham, UK"
+  # bio              : "University of Nottingham"
+  # location         : "Nottingham, UK"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "he.shawn.sun@gmail.com"
+  email            : "hesun@andrew.cmu.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HShawnSun"
+  github           : "HeathSun"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "HShawnSun"
+  linkedin         : "HeathSun"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HShawnSun"
+  twitter          : "Heath_Sun"
   vine             :
   weibo            :
   xing             : 
