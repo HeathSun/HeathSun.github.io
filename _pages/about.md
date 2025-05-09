@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'>
-Hello there! I'm He (Shawn) Sun,  a passionate undergraduate researcher, developer and product manager. I am currently in my last year of studying for a Bachelor of Science (Hons) in Computer Science with Artificial Intelligence at the University of Nottingham. Additionally, I scored top 3% in a deep learning program at the University of Oxford in 2022 summer. 
+Hello there! I'm Heath Sun,  a passionate undergraduate researcher, developer and product manager. I am currently in my last year of studying for a Bachelor of Science (Hons) in Computer Science with Artificial Intelligence at the University of Nottingham. Additionally, I scored top 3% in a deep learning program at the University of Oxford in 2022 summer. 
 
 As the founder and CEO of FateAlgo Ltd, I've led the development of an AI-native application offering tarot reading and divination services, securing £50,000 in funding from the Li Dak Sum Innovation Foundation and as the youngest member in history, acceptance into the 13th batch of [ZhenResidence](https://en.zhenfund.com/News/77) (25 start-ups/year) held by [ZhenFund](https://en.wikipedia.org/wiki/ZhenFund).
 
